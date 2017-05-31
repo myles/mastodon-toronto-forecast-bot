@@ -1,0 +1,11 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[packages]
+"Mastodon.py" = "*"
+humanize = "*"
+pytz = "*"
+
+[packages.forecastiopy]
+git = "https://github.com/bitpixdigital/forecastiopy3.git"

@@ -1,0 +1,61 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ],
+        "requires": {},
+        "hash": {
+            "sha256": "1d9e31e445d7912feef52d37cd000ca340a116e3e2da285b544bebfc4fd75f4b"
+        }
+    },
+    "default": {
+        "argparse": {
+            "hash": "sha256:c31647edb69fd3d465a847ea3157d37bed1f95f19760b11a47aa91c04b666314",
+            "version": "==1.4.0"
+        },
+        "certifi": {
+            "hash": "sha256:f4318671072f030a33c7ca6acaef720ddd50ff124d1388e50c1bda4cbd6d7010",
+            "version": "==2017.4.17"
+        },
+        "chardet": {
+            "hash": "sha256:8da3f329e2c5779247f4cff7081512c531731ef6a9c6ef78084e8ed8d18226c7",
+            "version": "==3.0.3"
+        },
+        "dateutils": {
+            "hash": "sha256:c94a8e77d743abac79ed91f99f5ef594a972a527e05145cbb7aba59beced8a71",
+            "version": "==0.6.6"
+        },
+        "idna": {
+            "hash": "sha256:cc19709fd6d0cbfed39ea875d29ba6d4e22c0cebc510a76d6302a28385e8bb70",
+            "version": "==2.5"
+        },
+        "Mastodon.py": {
+            "hash": "sha256:ebd505c146c039eda815901af9036370cec5e240645823eb35210d0b6fcbf3c6",
+            "version": "==1.0.7"
+        },
+        "python-dateutil": {
+            "hash": "sha256:537bf2a8f8ce6f6862ad705cd68f9e405c0b5db014aa40fa29eab4335d4b1716",
+            "version": "==2.6.0"
+        },
+        "pytz": {
+            "hash": "sha256:d1d6729c85acea5423671382868627129432fba9a89ecbb248d8d1c7a9f01c67",
+            "version": "==2017.2"
+        },
+        "requests": {
+            "hash": "sha256:baf701b4a9d4cbe40169e8ab77816f7abadbad502ba459c30f7a2bc138e4d612",
+            "version": "==2.17.3"
+        },
+        "six": {
+            "hash": "sha256:0ff78c403d9bccf5a425a6d31a12aa6b47f1c21ca4dc2573a7e2f32a97335eb1",
+            "version": "==1.10.0"
+        },
+        "urllib3": {
+            "hash": "sha256:8ed6d5c1ff9d6ba84677310060d6a3a78ca3072ce0684cb3c645023009c114b1",
+            "version": "==1.21.1"
+        }
+    },
+    "develop": {}
+}
